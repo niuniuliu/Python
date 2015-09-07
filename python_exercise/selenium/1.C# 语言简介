@@ -1,0 +1,110 @@
+1.C# 语言简介
+2.Visual Studio 的版本选择和下载
+3.C# 的 Hello World
+
+
+===
+
+
+1.C# 的值类型
+2.C# 的 struct 和 enum
+
+
+1.C# 的内置引用类型
+2.C# 的 Class
+3.C# 的 Interface
+
+
+1.C# 的隐式和显式转换
+2.C# 通过 Method 进行类型转换
+3.C# 的装箱拆箱和 Nullable 类型
+
+
+1.C#的条件语句
+2.C#的循环语句
+
+
+1.C# 的数组
+2.C# 的 ArrayList 和 List
+3.C# 的 Hashtable 和 Dictionary
+
+
+
+
+===
+1.C# 的封装和 public、private
+2.C# 的封装和 internal、protected
+
+
+1.C# 的继承
+2.C#中关于继承的几个实例
+
+
+1.C#的静态多态
+2.C# 的动态多态
+
+===
+
+1.C# 的异常处理的基本语法
+2.C# 的异常类
+3.C# 处理异常
+
+
+1.C# 的获取文件详情
+2.C# 写入文件操作
+3.C# 读取文件操作
+
+
+1.C# 索引器的语法
+2.C# 索引器的重载
+3.C# 基于接口的索引器和代码强壮性
+
+
+1.C# 中通过委托调用静态方法
+2.C# 中通过委托调用实例化方法
+3.C# 的 multi-casting delegate
+
+
+1.C# 中事件在 WinForms 的使用情况
+2.C# 事件的语法
+3.C# 事件的相关内容
+
+
+1.C# 中泛型在 Class 上的实现
+2.C# 泛型类的进一步探讨
+3.C# 泛型在方法 Method 上的实现
+4.C# 泛型在委托 Delegate 上的实现
+
+
+1.C# 中几个简单的内置 Attribute
+2.C# 自定义 Attribute
+3.C# 中通过反射来获取 Attribute 中的信息
+
+
+1.C# 中基于 System.Type 的反射
+2.C#中对于方法、属性等的反射
+3.C# 中动态加载以及推迟绑定
+
+
+1.C# 预处理指令的基本概念以及区域预处理指令
+2.C# 的条件预处理指令
+3.C# 行数与 pragma 预处理指令
+
+
+1.正则表达式的基本概念和学习工具
+2.正则表达式的基本语法
+3.C# 的 Regex 类
+4.C# 的 Regex 类的常用方法
+5.C# 的 Match 类和 Group 类
+
+
+1.C# 匿名函数的基本概念和委托的发展史
+2.C# 的匿名方法
+3.C# 的 Lambda 表达式
+
+
+1.C# 的 LINQ 的基本概念和优点
+2.C# 的 LINQ Query 的基本组成
+3.C# 的 LINQ Query 的几种基本操作
+4.C# 的 LINQ Query 的 into，let 关键字
+

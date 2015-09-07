@@ -1,0 +1,2 @@
+flags = [False]*32
+

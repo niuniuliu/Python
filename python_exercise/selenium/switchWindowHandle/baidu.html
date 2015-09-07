@@ -1,0 +1,36 @@
+<html>
+ <head> 
+  <title> Open in new window</title> 
+ </head> 
+ <body> 
+  <script type="text/javascript">
+<!--
+function popup(mylink, windowname) {
+    if (!window.focus) return true;
+    var href;
+    if (typeof(mylink) == 'string')
+        href = mylink;
+    else
+        href = mylink.href;
+    window.open(href, windowname, 'width=800,height=600,scrollbars=yes');
+    return false;
+}
+//-->
+</script> 
+  <br /> 
+  <a href="http://www.google.cn" target="_self"> Open google in new window: _self</a> 
+  <br /> 
+  <a href="http://www.google.cn" target="_this"> Open google in new window: _this</a> 
+  <br /> 
+  <a href="http://www.google.cn" target="_pop"> Open google in new window: _pop</a> 
+  <br /> 
+  <a href="http://www.google.cn" target="_parent"> Open google in new window: _parent</a> 
+  <br /> 
+  <a href="http://www.baidu.com" onclick="return popup(this, 'notes')">my popup</a>  
+
+  <br /> 
+  <a href="file:///C:/Users/tliu/Downloads/watirbook.pdf" target="_pop"> Open google in new window: _poppdf</a> 
+  
+  
+ </body>
+</html>
